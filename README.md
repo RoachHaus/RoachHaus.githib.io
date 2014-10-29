@@ -5,7 +5,7 @@ How to Run Jekyll on Windows
 
 Visit [the new, colorful, easy to read site](http://jekyll-windows.juthilo.com) to get started!
 
-There's an outdated Spanish translation of the guide [here](https://github.com/juthilo/run-jekyll-on-windows/blob/gh-pages/es/README.md).
+There's an outdated Spanish translation of the guide [here](https://github.com/juthilo/run-jekyll-on-windows/blob/gh-pages/es/README.md). 
 
 ## Author
 
