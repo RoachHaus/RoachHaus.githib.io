@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            'Run Jekyll on Windows'
-url:              http://roachhd.github.io/run-jekyll-on-windows/
-baseurl:          http://roachhd.github.io/run-jekyll-on-windows/
+url:              roachhd.github.io/run-jekyll-on-windows/
+baseurl:          /run-jekyll-on-windows/
 
 github:
   repo:           https://github.com/roachhd/run-jekyll-on-windows
